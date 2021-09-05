@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+i'm+Shavin+;--%Working+on+Telegram+developing;--A+coding+learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+Shavin+;--Working+on+Telegram+developing;--A+coding+learner)](https://git.io/typing-svg)
 
 
 
