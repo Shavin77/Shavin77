@@ -3,7 +3,7 @@
 
 
 ### My status
-![Shavin77 GitHub Status](https://github-readme-stats.vercel.app/api?username=Shavin77&show_icons=true&theme=midnight-purple)
+![Shavin77 GitHub Status](https://github-readme-stats.vercel.app/api?username=Shavin77&show_icons=true&theme=midnight-green)
 
 ![Profile views](https://gpvc.arturio.dev/Shavin77)
 
