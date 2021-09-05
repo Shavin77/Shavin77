@@ -1,9 +1,3 @@
--Im shavin77
-
--Still learning
-
--Working on Tg developing
-
 
 
 <!---
