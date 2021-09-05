@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+i'm+Shavin+;Working+on+Telegram+developing;A+coding+learner](https://git.io/typing-svg)
+
+
+
 ### My status
 ![Shavin77 GitHub Status](https://github-readme-stats.vercel.app/api?username=Shavin77&show_icons=true&theme=midnight-purple)
 
